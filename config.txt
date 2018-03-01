@@ -1,0 +1,1 @@
+{"scanPath":"E://TestPath","dbName":"dbname","tableName":"tableName","isDeepScan":true,"cleanData":true,"sheetEntities":[{"sheetName":"sheet1","cellList":[{"row":3,"col":"B","fieldName":"xb"},{"row":1,"col":"j","fieldName":"nl"},{"row":5,"col":"D","fieldName":"sg"}]},{"sheetName":"sheet2","cellList":[{"row":3,"col":"B","fieldName":"dx"},{"row":5,"col":"D","fieldName":"zh"}]}]}
